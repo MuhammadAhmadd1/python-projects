@@ -9,9 +9,4 @@ A fast, interactive, and lightweight TCP port scanner written in Python 3. It al
 - **Multi-Threaded Performance:** Powered by `concurrent.futures.ThreadPoolExecutor` for high-speed scanning without resource exhaustion.
 - **Error Handling & Resilience:** Robust handling for invalid user inputs, host resolution failures, and graceful exit routines.
 
-## Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/MuhammadAhmadd1/port-scanner.git](https://github.com/MuhammadAhmadd1/port-scanner.git)
-   cd port-scanner
