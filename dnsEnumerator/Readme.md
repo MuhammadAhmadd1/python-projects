@@ -14,7 +14,7 @@ Queries and displays the following DNS records for any given domain:
 - `SRV` (Service records)
 - `PTR` (Pointer records)
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Requires **Python 3** and the `dnspython` library:
 
