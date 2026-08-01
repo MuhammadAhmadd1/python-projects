@@ -2,7 +2,7 @@
 
 A lightweight Python script that queries a domain for common DNS record types using `dnspython`. It automates domain recon during security assessments by resolving standard DNS records in one clean pass.
 
-## 🚀 Supported Record Types
+##  Supported Record Types
 
 Queries and displays the following DNS records for any given domain:
 - `A` & `AAAA` (IPv4 / IPv6 addresses)
